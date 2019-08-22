@@ -1189,4 +1189,7 @@ footer p a:hover{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  display:block;
+  width:100px;
+  margin:0 auto;
 }
