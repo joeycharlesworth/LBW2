@@ -806,25 +806,11 @@ footer p a:hover{
 }
 /*-- //to-top --*/
 /*-- responsive --*/
-@media(max-width:1440px){
-	.contact-form-left {
-		padding: 4em 0em 4em 9em;
-	}
-	.contact-form-right {
-		padding: 4em 9em 4em 4em;
-	}
-}
-@media(max-width:1280px){
-	.contact-form-left {
-		padding: 4em 0em 4em 6em;
-	}
-	.contact-form-right {
-		padding: 4em 6em 4em 4em;
-	}
+
 }
 @media(max-width:1080px){
 	.w3ls-text {
-		width: 35%;
+		width: fit-content;
 	}
 	.team-caption {
 		height: 306px;
@@ -832,9 +818,7 @@ footer p a:hover{
 	.team-caption h4 {
 		margin: 3.5em 0 0 0;
 	}
-	.address-info {
-		width: 60%;
-	}
+	
 }
 @media(max-width:991px){
 	.agileits-logo h1 a img {
@@ -858,7 +842,7 @@ footer p a:hover{
 		padding: 6em 0 2em 0;
 	}
 	.w3ls-text {
-		width: 50%;
+		width: fit-content;
 	}
 	.introduction-info p {
 		width: 90%;
@@ -886,9 +870,7 @@ footer p a:hover{
 	div#design {
 		min-height: 900px;
 	}
-	.address-icon {
-		width: 6%;
-	}
+	
 }
 @media(max-width:736px){
 	.navbar-toggle {
@@ -920,7 +902,7 @@ footer p a:hover{
 		font-size: 4em;
 	}
 	.w3ls-text {
-		width: 46%;
+		width: fit-content;
 	}
 	.w3layouts-banner-info {
 		padding: 3em 0 2em 0;
@@ -952,7 +934,7 @@ footer p a:hover{
 }
 @media(max-width:600px){
 	.w3ls-text {
-		width: 55%;
+		width: fit-content;
 	}
 	.nav-tabs > li {
 		margin: 0 0px;
@@ -984,6 +966,7 @@ footer p a:hover{
 @media(max-width:480px){
 	.w3ls-text {
 		border: solid 10px #FFFFFF;
+		width: fit-content;
 	}
 	.w3ls-text h2 {
 		font-size: 3em;
