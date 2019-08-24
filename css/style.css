@@ -1178,3 +1178,10 @@ footer p a:hover{
   width:auto;
   margin:0 auto 20px;
 }
+#sponsorsHeading
+{
+color: #FFFFFF;
+text-align: center;
+position: relative;
+top: -81px;
+}
