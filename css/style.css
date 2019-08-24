@@ -149,8 +149,11 @@ body{
 }
 /*-- //header --*/
 /*-- w3layouts-banner-info --*/
-.w3layouts-banner-info {
+/*.w3layouts-banner-info {
     padding: 8em 0 2em 0;
+}*/
+.w3l-heading about-heading{
+	padding: 8em 0 2em 0;
 }
 .w3ls-text{
     padding: 2em;
