@@ -152,7 +152,7 @@ body{
 /*.w3layouts-banner-info {
     padding: 8em 0 2em 0;
 }*/
-.w3l-heading .about-heading{
+.about-heading{
 	padding: 8em 0 2em 0;
 }
 .w3ls-text{
@@ -205,7 +205,7 @@ body{
 /*-- //w3layouts-banner-info --*/
 /*-- introduction --*/
 .introduction,.about,.gallery,.team-dot,.news,.contact{
-	padding:4em 0;
+	padding:4em 0 0 0;
 }
 .w3l-heading h3{
     text-align: center;
